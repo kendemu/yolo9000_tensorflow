@@ -1,6 +1,6 @@
 # yolo9000_tensorflow    
 A sample code for using yolo9000 on tensorflow.
-![yolo9000](yolo9000.png)  
+![yolo9000](YOLO9000.png)  
 
 
 ## Supported Platform  
